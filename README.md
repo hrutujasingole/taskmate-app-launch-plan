@@ -116,4 +116,4 @@ Complete sprint simulation on Trello with backlog, story points, acceptance crit
 Hrutuja Ingole
 Aspiring Project Manager
 📧 hrutujasingole@gmail.com
-🔗 www.linkedin.com/in/hrutuja-ingole-01325526b
+🔗 https://www.linkedin.com/in/hrutuja-ingole-pm/
